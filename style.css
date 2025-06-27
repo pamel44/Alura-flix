@@ -1,4 +1,18 @@
-header{
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(58, 165, 9);
+}   
+   
+header{   
     background-color: black;
-    color
+    color: rgb(252, 252, 252);
+    font-size: 25px;
+    border-bottom: solid 2px red;
+    padding: 20px;
+}
+
+.chamada{
+    display: flex;
+    justify-content: center;
 }
