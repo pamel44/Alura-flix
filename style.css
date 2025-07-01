@@ -4,8 +4,8 @@
 }   
    
 header{   
-    background-color: rgb(15, 146, 70);
-    color: rgb(10, 1, 1);
+    background-color: rgb(6, 121, 25);
+    color: rgb(184, 214, 15);
     font-size: 25px;
     border-bottom: solid 2px red;
     padding: 20px;
@@ -14,5 +14,8 @@ header{
 .chamada{
     display: flex;
     justify-content: center;
-    background-color: black;
-}j
+    background-color: rgb(136, 12, 12);
+}
+.chamada-texto{
+margin-right: 5%;
+}
