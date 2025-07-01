@@ -4,8 +4,8 @@
 }   
    
 header{   
-    background-color: black;
-    color: rgb(252, 252, 252);
+    background-color: rgb(15, 146, 70);
+    color: rgb(10, 1, 1);
     font-size: 25px;
     border-bottom: solid 2px red;
     padding: 20px;
@@ -15,4 +15,4 @@ header{
     display: flex;
     justify-content: center;
     background-color: black;
-}
+}j
