@@ -14,7 +14,7 @@ header{
 .chamada{
     display: flex;
     justify-content: center;
-    background-color: rgb(136, 12, 12);
+    background-color: rgb(119, 4, 110);
 }
 .chamada-texto{
 margin-right: 5%;
