@@ -32,10 +32,16 @@ img {
 }
 
 .boasvindas{
-    background-color: red;
+    background-color: rgb(189, 139, 189);
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
     font-size: 20px;
     font-family: cursive;
+    color: ;
+}
+
+#nome-usuario{
+    font-style: italic;
+    font-size: 22px ;
 }
